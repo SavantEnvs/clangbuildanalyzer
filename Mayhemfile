@@ -1,5 +1,5 @@
 project: clangbuildanalyzer
-target: clangbuildanalyzer
+target: ClangBuildAnalyzer
 
 cmds:
   - cmd: /repo/build/ClangBuildAnalyzer --analyze @@
