@@ -2,4 +2,4 @@ project: clangbuildanalyzer
 target: ClangBuildAnalyzer
 
 cmds:
-  - cmd: /repo/build/ClangBuildAnalyzer --analyze @@
+  - cmd: /install/bin/ClangBuildAnalyzer --analyze @@
