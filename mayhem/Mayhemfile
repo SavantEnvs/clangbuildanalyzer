@@ -1,5 +1,6 @@
 project: clangbuildanalyzer
-target: ClangBuildAnalyzer
+target: clangbuildanalyzer
 
 cmds:
   - cmd: /install/bin/ClangBuildAnalyzer --analyze @@
+image: ghcr.io/rnshah9/playground:clangbuildanalyzer
