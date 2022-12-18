@@ -1,0 +1,6 @@
+project: clangbuildanalyzer
+target: lowercase
+
+cmds:
+  - cmd: /fuzz_Lowercase
+    libfuzzer: true
