@@ -1,0 +1,6 @@
+project: savantenvs/clangbuildanalyzer
+target: lowercase
+
+cmds:
+  - cmd: /mayhem/build/fuzz_Lowercase
+    libfuzzer: true
