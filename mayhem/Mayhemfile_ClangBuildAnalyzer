@@ -1,0 +1,6 @@
+# origin: https://app.mayhem.security/mayhemheroes/clangbuildanalyzer/clangbuildanalyzer/9
+project: savantenvs/clangbuildanalyzer
+target: clangbuildanalyzer-buggy-mhh-run-9
+
+cmds:
+  - cmd: /mayhem/build/ClangBuildAnalyzer --analyze @@
